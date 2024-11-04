@@ -28,7 +28,7 @@ body, html {
     padding: 40px;
     border-radius: 10px;
     opacity: 0;
-  animation: fadeInUp 1s ease-in-out;
+    animation: fadeInUp 1s ease-in-out forwards;
 }
 
 @keyframes fadeInUp {
